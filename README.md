@@ -6,4 +6,4 @@
 
 ### Освоение JavaFX
 
-Игра"Сапер"(
+[Игра"Сапер"](https://github.com/Il23555/GUI_Projects/tree/master/Minesweeper)
